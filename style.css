@@ -1,0 +1,108 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.font-size{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+.order-now{
+    padding: 8px 25px;
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    background-image:linear-gradient(orange,tomato)
+    
+}
+.food-diet{
+    display: flex;
+    margin-bottom: 5%;
+    overflow: hidden;
+}
+#frist-width{
+    padding-top: 2%;
+    padding-left: 5%;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+
+    
+}
+#female-image{
+    width: 50%;
+    padding-top: 10%;
+    padding-left: 30%;
+}
+#about-me{
+    padding-top: 6%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+#padd{
+    padding-bottom: 10%;
+}
+
+#over-image{
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+   
+#shape-image{
+    position: absolute;
+    top: 0;
+    z-index: 10;   
+}
+
+#align-racipies{
+    text-align: center;
+    align-items: center;
+    padding: 10px 40px;
+    margin-bottom: 10px;
+}
+#display-jus{
+    display: flex;
+}
+#my-racipie{
+    margin: 2% 6%;
+}
+#images-padding{
+    margin-right: 4%;
+    box-shadow: 10px 10px 40px grey;
+
+}
+
+
+.box{
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px grey;
+   
+}
+.width-30{
+    width: 32%;
+    
+}
+#align-center{
+    text-align: center;
+    align-items: justify;
+    padding: 6px 0px;
+    margin: 60px 70px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+#footer{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 60px;
+    
+}
+
+
+
